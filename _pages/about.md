@@ -7,27 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-# Meet Your Sixth Grade Computer Teacher
+# Introducing a very interesting and fun game! Bloxd.io
 
-Hello, young tech enthusiasts! 👋
+Hello everyone!
 
 ![foo-bar-identity.jpg](https://daviddhc20120601.github.io/academicpages.github.io/images/foo-bar-identity.jpg)
 
-I'm thrilled to introduce your incredible Sixth Grade Computer Teacher, Mr. Daviddhc20120601! He's not just any teacher; he's a digital wizard who will guide you through the exciting world of computer science and technology.
+I'm thrilled to introduce you to a very fun video game -- Bloxd.io! You can play it FOR FREE and using a laptop to play it is highly reccommended. 
 
-## About Mr. Daviddhc20120601
+## About Bloxd.io
 
-👩‍🏫 **Name:** Mr. Daviddhc20120601
+**How to play**
 
-🏫 **Grade:** Sixth Grade
+**Different Gamemodes**
 
-🖥️ **Subject:** Computer Science
 
-With a passion for all things tech and years of experience in making coding, programming, and digital creativity accessible to young minds, Mr. Daviddhc20120601 is here to make learning about computers a blast!
 
-## What to Expect
+For people who love to play minecraft or Roblox, this game is similar to them and they are just as fun!
 
-In Mr. Daviddhc20120601's class, you'll embark on an epic journey into the realms of programming, web development, and all the fun aspects of technology. You'll get hands-on experience with computers, learn to code, and even create your own digital masterpieces. Mr. Daviddhc20120601's class is the gateway to a world of endless possibilities.
+##Why Bloxd.io?
 
-So, get ready to explore, learn, and code your way to success under the expert guidance of Mr. Daviddhc20120601. Your computer adventure is about to begin!
+Bloxd.io is a place where you can explore different gamemodes and servers with other players around the world! You can even log in with your email account for free in order to save your progess! There are gamemodes like Greenville, Murder Mystery, Survival, Evil Tower and so much more!
+
+So, what are you waiting for? Come and try out this exicting and adventures games!
 
