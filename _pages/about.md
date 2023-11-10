@@ -9,7 +9,7 @@ redirect_from:
 
 # Introducing a very interesting and fun game! Bloxd.io
 
-!Bloxd.io(https://images.crazygames.com/games/bloxdhop-io/cover-1671463581901.png?auto=format,compress&q=75&cs=strip)
+![Bloxd.io](https://images.crazygames.com/games/bloxdhop-io/cover-1671463581901.png?auto=format,compress&q=75&cs=strip)
 
 Hello everyone!
 
