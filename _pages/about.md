@@ -13,8 +13,6 @@ redirect_from:
 
 Hello everyone!
 
-![foo-bar-identity.jpg](https://daviddhc20120601.github.io/academicpages.github.io/images/foo-bar-identity.jpg)
-
 I'm thrilled to introduce you to a very fun video game -- Bloxd.io! You can play it FOR FREE and using a laptop to play it is highly reccommended. 
 
 ## About Bloxd.io
